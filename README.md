@@ -7,6 +7,7 @@ Tarea N°3 ML
 ├── Tarea3-ML-Grupo7.ipynb    # Notebook principal de Python
 ├── data/             # Carpeta para almacenar datasets
 │   └── .gitkeep      # Archivo para mantener la carpeta en Git
+│   └── bank-full.csv # Dataset Bank Marketing (UCI)
 └── README.md         # Este archivo
 ```
 
