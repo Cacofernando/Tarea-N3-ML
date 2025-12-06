@@ -1,5 +1,9 @@
 # Tarea-N3-ML
-Tarea N°3 ML
+### Integrantes:
+- #### **Cristián Vargas**
+- #### **Nector Felipe Ruiz**
+- #### **Claudio Ballerini**
+
 
 ## Estructura del Repositorio
 
@@ -8,6 +12,8 @@ Tarea N°3 ML
 ├── data/             # Carpeta para almacenar datasets
 │   └── .gitkeep      # Archivo para mantener la carpeta en Git
 │   └── bank-full.csv # Dataset Bank Marketing (UCI)
+├── informe/             # Carpeta para almacenar informe
+│   └── Tarea N°3 - ML # informe de la tarea
 └── README.md         # Este archivo
 ```
 
